@@ -1,0 +1,11 @@
+[workspace]
+members = [
+    "blake2",
+    "ripemd160",
+    "sha1",
+    "sha2",
+    "sha3",
+]
+
+[profile.dev]
+opt-level = 2
