@@ -14,3 +14,18 @@ members = [
 
 [profile.dev]
 opt-level = 2
+
+[dependencies.blake2]
+path = "blake2"
+
+[dependencies.ripemd160]
+path = "ripemd160"
+
+[dependencies.sha1]
+path = "sha1"
+
+[dependencies.sha2]
+path = "sha2"
+
+[dependencies.sha3]
+path = "sha3"

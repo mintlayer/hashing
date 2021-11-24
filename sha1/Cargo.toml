@@ -1,5 +1,5 @@
 [package]
-name = "sha-1"
+name = "sha1"
 version = "0.9.8"
 description = "SHA-1 hash function"
 authors = ["RustCrypto Developers"]
